@@ -20,16 +20,13 @@
 
 ## About
 
-**PhD, Molecular Biology** | Post-Graduate Certificate in Genomic Data Analysis  
-*University of Connecticut*
+**PhD, Molecular Biology**
 
 I develop production-ready computational workflows for transcriptomics analysis, specializing in:
 - Single-cell RNA-seq analysis and cell type characterization
 - Alternative polyadenylation and isoform-level quantification
 - Cell-cell communication network inference
 - Reproducible pipeline development with Nextflow
-
-Research background includes post-transcriptional regulation in neurodevelopment, with experience in academic research (Texas A&M, Virginia Tech, UConn Miura Lab) and healthcare analytics.
 
 ---
 
@@ -97,18 +94,10 @@ Interactive educational platform providing comprehensive bioinformatics tutorial
 
 ---
 
-### 🔬 SCALPEL Alternative Polyadenylation Pipeline
-
-Nextflow-based workflow for isoform-level quantification and 3'UTR length analysis in single-cell datasets. Integrates with Seurat for developmental APA characterization across cell types and conditions.
-
-**Pipeline:** Nextflow DSL2 • Docker • SLURM • scalpelR
-
----
-
 
 ### Let's Collaborate
 
-I'm interested in projects involving **computational biology**, **genomics pipeline development**, and **AI-driven biological data analysis**.
+I am interested in projects involving **computational biology**, **genomics pipeline development**, and **AI-driven biological data analysis**.
 
 Open to research collaborations, consulting opportunities, and open-source contributions.
 
