@@ -2,8 +2,6 @@
   
 # Glady Hazitha Samuel, PhD
 
-**Computational Biologist | Genomics Pipeline Developer**
-
 [![Website](https://img.shields.io/badge/Website-ghsamuel.netlify.app-blue?style=flat-square)](https://ghsamuel.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/glady-hazitha-samuel-phd/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:glady.samuel@uconn.edu)
@@ -22,7 +20,6 @@
 
 **PhD, Molecular Biology**
 
-I develop production-ready computational workflows for transcriptomics analysis, specializing in:
 - Single-cell RNA-seq analysis and cell type characterization
 - Alternative polyadenylation and isoform-level quantification
 - Cell-cell communication network inference
@@ -49,7 +46,7 @@ I develop production-ready computational workflows for transcriptomics analysis,
 
 **Infrastructure & Development**
 - Pipeline orchestration (Nextflow)
-- Containerization (Docker/Apptainer)
+- Containerization (Docker)
 - HPC computing (SLURM)
 - Version control (Git)
 - Reproducible reporting (Quarto)
@@ -96,8 +93,6 @@ Interactive educational platform providing comprehensive bioinformatics tutorial
 ### Let's Collaborate
 
 I am interested in projects involving **computational biology**, **genomics pipeline development**, and **AI-driven biological data analysis**.
-
-Open to research collaborations, consulting opportunities, and open-source contributions.
 
 **📧 gladyhazitha.samuel@uconn.edu**
 
