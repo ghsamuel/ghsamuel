@@ -67,8 +67,6 @@ I develop production-ready computational workflows for transcriptomics analysis,
 
 ### 🧬 [Purkinje Cell Diversity Analysis](https://github.com/ghsamuel/scRNA-purkinje-cells)
 
-<img align="right" width="300" src="https://via.placeholder.com/300x200.png?text=Project+Preview" alt="project preview">
-
 End-to-end scRNA-seq analysis pipeline examining Purkinje cell diversification during mouse cerebellar development.
 
 **Key Features:**
