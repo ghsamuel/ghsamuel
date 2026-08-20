@@ -94,7 +94,7 @@ Interactive educational platform providing comprehensive bioinformatics tutorial
 
 I am interested in projects involving **computational biology**, **genomics pipeline development**, and **AI-driven biological data analysis**.
 
-**📧 gladyhazitha.samuel@uconn.edu**
+**📧 glady.samuel@uconn.edu**
 
 ---
 
