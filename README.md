@@ -60,34 +60,6 @@
 
 ---
 
-## Featured Work
-
-### 🧬 [Purkinje Cell Diversity Analysis](https://github.com/ghsamuel/scRNA-purkinje-cells)
-
-End-to-end scRNA-seq analysis pipeline examining Purkinje cell diversification during mouse cerebellar development.
-
-**Key Features:**
-- Quality control & Harmony batch correction
-- Cell type annotation (15 major types)
-- High-resolution Purkinje subtyping
-- Developmental communication dynamics (CellChat)
-- Alternative polyadenylation analysis (SCALPEL)
-
-**Tech:** R • Seurat • Harmony • CellChat • Nextflow • HPC
-
-<br clear="right"/>
-
----
-
-### 📚 [BioTutorials](https://ghsamuel.netlify.app)
-
-Interactive educational platform providing comprehensive bioinformatics tutorials:
-- scRNA-seq analysis workflows
-- Cell-cell communication inference
-- Bulk RNA-seq pipelines
-- Spatial proteomics integration
-
----
 
 
 ### Let's Collaborate
